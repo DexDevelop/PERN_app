@@ -14,3 +14,21 @@
 .btn-primary {
     margin-top: 20px;
 }
+
+.row row-col-3 mb-2 {
+    justify-content: space-between;
+}
+
+.card {
+    padding: 0;
+    margin: 10px;
+}
+
+.form-row-review {
+    display: inline-block;
+}
+
+label {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
