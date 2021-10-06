@@ -23,62 +23,6 @@ const Reviews = ({ reviews }) => {
           </div>
         );
       })}
-      {/* <div
-        className="card text-white bg-success mb-3 mr4"
-        style={{ maxWidth: "30%" }}
-      >
-        <div className="card-header d-flex justify-content-between">
-          <span>Ben</span>
-          <span>
-            <StarRating rating={3} />
-          </span>
-        </div>
-        <div className="card-body">
-          <p className="card-text">This restaurant is awesome</p>
-        </div>
-      </div>
-      <div
-        className="card text-white bg-success mb-3 mr4"
-        style={{ maxWidth: "30%" }}
-      >
-        <div className="card-header d-flex justify-content-between">
-          <span>Ben</span>
-          <span>
-            <StarRating rating={3} />
-          </span>
-        </div>
-        <div className="card-body">
-          <p className="card-text">This restaurant is awesome</p>
-        </div>
-      </div>
-      <div
-        className="card text-white bg-success mb-3 mr4"
-        style={{ maxWidth: "30%" }}
-      >
-        <div className="card-header d-flex justify-content-between">
-          <span>Ben</span>
-          <span>
-            <StarRating rating={3} />
-          </span>
-        </div>
-        <div className="card-body">
-          <p className="card-text">This restaurant is awesome</p>
-        </div>
-      </div>
-      <div
-        className="card text-white bg-success mb-3 mr4"
-        style={{ maxWidth: "30%" }}
-      >
-        <div className="card-header d-flex justify-content-between">
-          <span>Ben</span>
-          <span>
-            <StarRating rating={3} />
-          </span>
-        </div>
-        <div className="card-body">
-          <p className="card-text">This restaurant is awesome</p>
-        </div>
-      </div> */}
     </div>
   );
 };

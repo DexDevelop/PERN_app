@@ -114,6 +114,7 @@ app.delete("/api/v1/restaurants/:id", async (req, res) => {
   }
 });
 
+//Post a review
 app.post("/api/v1/restaurants/:id/addReview", async (req, res) => {
   try {
     const newReview = await db.query(
